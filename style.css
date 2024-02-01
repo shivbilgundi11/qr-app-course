@@ -29,3 +29,16 @@ body {
 }
 
 /* Styles Here */
+
+.app-wrapper {
+	width: 100%;
+	padding: 1rem;
+}
+
+/* Styles for the title paragraph */
+.title {
+	margin: 0.5rem;
+	text-align: center;
+	font-size: 1.5rem;
+	font-weight: 700;
+}
