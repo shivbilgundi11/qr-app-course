@@ -1,1 +1,3 @@
 // Write your js code...
+const input = document.querySelector("input");
+const button = document.querySelector("button");
